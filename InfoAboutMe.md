@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding python,javascript,php
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 Cantact requirments :
+- 📫 Cantact requirements :
    contact.jebalifourat@gmail.com
 
 
